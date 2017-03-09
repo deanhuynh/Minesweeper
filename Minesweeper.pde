@@ -26,7 +26,7 @@ void setup ()
 }
 public void setBombs()
 {
-       while(bombs.size() <20)
+    while(bombs.size() <50)
     {
    int row = (int)(Math.random()*20);
    int col = (int)(Math.random()*20);
@@ -59,7 +59,7 @@ public boolean isWon()
 }
 public void displayLosingMessage()
 {
- String loser = "You lost!";
+ String loser = "You lose! You suck!";
     for(int c = 5; c<loser.length()+5;c++)
     {
     buttons[10][c].setLabel(loser.substring(c-5, c-4));
@@ -77,7 +77,7 @@ public void displayLosingMessage()
 }
 public void displayWinningMessage()
 {
-    String winner = "You won!";
+    String winner = "You win!";
     for(int c = 5; c<winner.length()+5;c++)
     {
     buttons[10][c].setLabel(winner.substring(c-5, c-4));
