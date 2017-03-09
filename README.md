@@ -1,4 +1,4 @@
-Minesweeper
+000000000000000000000000000000000000000000000000000000000000000000000000000000Minesweeper
 ==================
 
 In this assignment you will be recreating the [Microsoft Minesweeper game](http://en.wikipedia.org/wiki/Minesweeper_(video_game)). If you are not familiar with minesweeper you should play the game until you are. You can find one version at [http://minesweeperonline.com/](http://minesweeperonline.com/). You can also try my [slightly easier Minesweeper game](http://simart.github.io/MinesweeperFinished/). You may find the [2d Arrays](https://drive.google.com/open?id=0Bz2ZkT6qWPYTTU9XSWtPUmNrUnM) PowerPoint slides helpful.
